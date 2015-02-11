@@ -1,0 +1,7 @@
+#!/bin/sh
+chown -R mobile:mobile /Library/Cylinder/CylinderNitro
+echo 
+echo "Thank you for installing Cylinder Nitro!"
+echo "Please visit /r/cylinder and share your experience."
+echo "- @supermamon"
+echo
